@@ -4,4 +4,4 @@ language: java
 script: mvn test -B .script.sh
 
 # Sets up operating system of virtual machine
-os: windows
+os: linux
